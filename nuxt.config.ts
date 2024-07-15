@@ -16,6 +16,7 @@ export default defineNuxtConfig({
        },
      ],
    },
+   baseURL: '/nuxt3-github-pages/',
   },
 
   modules: ['@nuxtjs/tailwindcss']
